@@ -1,0 +1,180 @@
+body{
+    background-image: url(imagens/fundo.png);
+    background-size:cover;
+    background-color: #EE2619;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+table{
+    border:3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+th{
+    height: 50px;
+    font-size: 20px;
+}
+
+tr{
+    border: 1px solid grey;
+}
+
+td{
+    border: 1px solid grey;
+}
+
+img{
+    height: 30px;
+    border-radius: 5px;
+}
+
+hr{
+    border-color: gray;
+    height: 2px;
+    background-color: gray;
+}
+
+.cabecalho{
+    font-weight: bold;
+}
+
+.containerEtapas{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    gap: 10px;
+}
+
+.tabelaEtapa{
+    width: 380px;
+}
+
+
+#tabelaTotal {
+    padding-top: 6%;
+}
+
+#tabela1{
+    width: 700px;
+    margin:auto;
+}
+
+#menuFixo{
+    width: 100%;
+    height: 70px;
+    position:fixed;
+    background-color:   #EE2619;
+    left:0px;
+    top:0px;
+}
+
+#tituloMenu{
+    color: white;
+    position:fixed;
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+    left: 30%;
+    top: 3%;
+
+}
+
+#imgMenuFormula{
+    background-color: white;
+    border-radius: 50%;
+    height:60px;
+    position:fixed;
+    margin-left:85%;
+    margin-top: -6px;
+    
+}
+
+#imgMenuFia{
+    position:fixed;
+    height:40px;
+    height: 60px;
+    margin-left:10%;
+    margin-top:-6px;
+}
+
+.logos{
+    height: 30px;
+    background-color: white;
+}
+
+.cabecalhoTabelaConfig{
+    width: 50px;
+}
+
+.containerEquipes{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    gap: 10px;
+}
+
+.etapaEquipe{
+    width: 50px;
+}
+
+.geralEquipes{
+    margin: auto;
+    width: 80%;
+}
+
+.mclarenlogo{
+    height: 70px;
+
+}
+
+.rbrlogo{
+    height: 60px;
+}
+
+.astonlogo{
+    height: 50px;
+}
+
+.mercedeslogo{
+    height: 40px;
+}
+
+.ferrarilogo{
+    height: 50px;
+}
+
+.alpinelogo{
+    height: 50px;
+}
+
+.williamslogo{
+    height: 50px;
+}
+
+#sistemaEquipes{
+    margin: 50px;
+    height: 270px;
+    width: 200px;
+}
+
+#containerInicio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#sistemaPontos{
+    margin:50px;
+}
+
+.Pilotos{
+    margin:auto;
+    width: 600px;
+}
