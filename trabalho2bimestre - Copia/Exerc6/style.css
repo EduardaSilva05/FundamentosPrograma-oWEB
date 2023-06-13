@@ -1,0 +1,12 @@
+#divMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    font-size: 35px;
+    margin-top: 5%;
+}
+
+

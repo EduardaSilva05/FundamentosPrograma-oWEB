@@ -1,0 +1,13 @@
+#divMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#inputs{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}

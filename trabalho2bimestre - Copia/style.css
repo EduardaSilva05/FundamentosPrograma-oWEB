@@ -1,0 +1,11 @@
+#aHref{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    margin-top:2%;
+}
