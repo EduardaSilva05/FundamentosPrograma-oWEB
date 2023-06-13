@@ -1,0 +1,28 @@
+.input{
+    margin-top: 6%;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 5px
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+h4{
+    text-align: center;
+}
+
+button{
+    width: 120px;
+    margin-left: 46%;
+}
+
+p{
+    text-align: center;
+    margin-top: 2%;
+}
